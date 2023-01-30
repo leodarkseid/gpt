@@ -56,12 +56,16 @@ color: #FFFFFF;
 
 .gpt3__navbar-sign button,
 .gpt3__navbar-menu_container button{
-    
-    width: 152px;
-    height: 58px;
-    left: 1153px;
-    top: 55px;
-
+    padding: 1rem 2rem;
+    color: #fff;
     background: #FF4820;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
     border-radius: 5px;
+    font-style: normal;
+    border: 0;
+    outline: none;
+    cursor: pointer;
 }
