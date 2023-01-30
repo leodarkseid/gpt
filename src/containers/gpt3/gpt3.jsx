@@ -1,10 +1,10 @@
 import React from 'react';
 import './gpt3.css';
 
-const gpt3 = () => {
+const Gpt3 = () => {
   return (
-    <div>gpt3</div>
+    <div>Gpt3</div>
   )
 }
 
-export default gpt3
+export default Gpt3

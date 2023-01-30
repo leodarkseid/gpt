@@ -2,7 +2,7 @@ import React from 'react'
 
 
 import {Footer, Blog, Possibility, Features, Gpt3,Header } from './containers'; 
-import {Navabar, Brand, CTA } from './components';
+import {Navbar, Brand, Cta} from './components';
 const App = () => {
   return (
     <div className='App'>
@@ -17,7 +17,7 @@ const App = () => {
       <Gpt3 />
       <Features />
       <Possibility />
-      <CTA />
+      <Cta />
       <Blog />
       <Footer />
        
