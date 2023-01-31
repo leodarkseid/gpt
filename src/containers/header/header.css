@@ -1,7 +1,7 @@
 .gpt3__header {
     display: flex;
 }
-.gpt3__header-content{
+.gpt3__header-content {
     flex: 1;
     display: flex;
     justify-content: center;
@@ -22,7 +22,7 @@
 .gpt3__header-content p{
     font-family: var(--font-family);
     font-style: normal;
-    font-weight: 400;
+    font-weight: normal;
     font-size: 20px;
     line-height: 27px;
     color: var(--color-text);
@@ -48,7 +48,6 @@
     padding: 0 1rem;
     outline: none;
     color: #fff;
-    color: #3D6184;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
 }
