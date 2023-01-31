@@ -74,7 +74,7 @@ color: #FFFFFF;
     display: none;
     position: relative;
 }
-.gpt3__navbar-menu svg{
+.gpt3__navbar-menu svg {
     cursor:pointer;
 }
 .gpt3__navbar-menu_container {
@@ -96,7 +96,6 @@ color: #FFFFFF;
 
 .gpt3__navbar-menu_container p{
     margin: 1rem 0;
-
 }
 
 .gpt3__navbar-menu_container-links-sign{
