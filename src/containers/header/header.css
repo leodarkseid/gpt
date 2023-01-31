@@ -48,6 +48,23 @@
     padding: 0 1rem;
     outline: none;
     color: #fff;
-    border-radius: 5px 0px 0px 5px;
     color: #3D6184;
+    border: ;
+}
+.gpt3__header-content__input button{
+    flex: 0.6;
+    width: 100%;
+    min-height: 50px;
+    font-family: var(--font-family);
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    background: #FF4820;
+    border-radius: 5px 0px 0px 5px;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+    padding: 0 1rem;
+    border: none;
+    
 }

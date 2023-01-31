@@ -20,9 +20,9 @@ const Header = () => {
         <p>1,600 people requested access in the last 24hours </p>
       </div>
 
-      <div className="gpt3__header-image">
+      {/* <div className="gpt3__header-image">
         <img src={ai} alt="ai" />
-      </div>
+      </div> */}
 
       </div>
       </div>
