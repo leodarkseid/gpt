@@ -1,0 +1,27 @@
+.gpt3__whatgpt3 
+    
+{
+    display: flex;
+    flex-direction: column;
+
+    padding: 2rem;
+    background: var(--color-footer);
+    /* ff 3.6+ */
+    background:-moz-linear-gradient(140deg, rgba(34, 64, 120, 1) 5%, rgba(19, 43, 84, 1) 83%, rgba(63, 114, 217, 0.61) 99%); 
+
+    /* safari 5.1+,chrome 10+ */
+    background:-webkit-linear-gradient(140deg, rgba(34, 64, 120, 1) 5%, rgba(19, 43, 84, 1) 83%, rgba(63, 114, 217, 0.61) 99%);
+
+    /* opera 11.10+ */
+    background:-o-linear-gradient(140deg, rgba(34, 64, 120, 1) 5%, rgba(19, 43, 84, 1) 83%, rgba(63, 114, 217, 0.61) 99%);
+
+    /* ie 6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3F72D9', endColorstr='#224078', GradientType=1 );
+
+    /* ie 10+ */
+    background:-ms-linear-gradient(140deg, rgba(34, 64, 120, 1) 5%, rgba(19, 43, 84, 1) 83%, rgba(63, 114, 217, 0.61) 99%);
+
+    /* global 94%+ browsers support */
+    background:linear-gradient(140deg, rgba(34, 64, 120, 1) 5%, rgba(19, 43, 84, 1) 83%, rgba(63, 114, 217, 0.61) 99%);
+
+}
